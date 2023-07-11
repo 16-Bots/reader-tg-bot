@@ -1,7 +1,7 @@
 # Introduction
 
 Repository contains the source code of the telegram bot for reading a books. Now you can read
-"The Master and Margarita" book.
+"The Master and Margarita" book, others will be added in the future.
 
 - Available functions:
     - /beginning: go to the beginning of the book
