@@ -23,15 +23,14 @@ Be sure you have the following installed on your development machine:
 
 To run this project in your development machine, follow these steps:
 
-1. (optional) Create and activate a [virtualenv](https://virtualenv.pypa.io/)
-   or [venv](https://docs.python.org/3/library/venv.html)
+1. Create and activate a virtual environment with
+   [virtualenv](https://virtualenv.pypa.io/) or
+   [venv](https://docs.python.org/3/library/venv.html)
 
-2. Clone this repo
+2. Clone this repo: `git clone <repo_url>`
 
-3. Install dependencies:
+3. Install dependencies: `pip install -r requirements.txt`
 
-`pip install -r requirements.txt`
+4. Create `.env` file following the example file `.env.example`
 
-4. Create `.env` file like the `.env.example file`
-
-5. Run bot.py file and go to the telegram app to test.
+5. Run `bot.py` file
